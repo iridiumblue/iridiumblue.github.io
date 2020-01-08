@@ -10,7 +10,7 @@ His first job out of school was writing war-game simulation software for the Nav
 
  
 
-As the Cold War ended and the dot com boom stirred, Chris moved to the Boston where he has lived ever since.   He has worked for a variety of startups, in varying roles as an employee, consultant, and cofounder.   In 2007 he came up with a way for cell phones to exchange contact information acoustically, and secured funding for a startup to pursue this idea :  http://www.faqs.org/patents/app/20090156202    He's also worked for a couple of very large companies : Nokia and Accenture.
+As the Cold War ended and the dot com boom stirred, Chris moved to Boston where he has lived ever since.   He has worked for a variety of startups, in varying roles as an employee, consultant, and cofounder.   In 2007 he came up with a way for cell phones to exchange contact information acoustically, and secured funding for a startup to pursue this idea :  http://www.faqs.org/patents/app/20090156202    He's also worked for a couple of very large companies : Nokia and Accenture.
 
  
 
