@@ -5,6 +5,7 @@ North Andover, MA
 christopher.j.reiss@gmail.com
 
 978.594.2110
+
 ---
                                
 **Languages:**  C++, Python, LISP, JavaScript/JQuery(Mobile), and others.
