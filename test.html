@@ -1,0 +1,26 @@
+<html>
+<head>
+    <script type="text/javascript" src="my.js"></script>
+</head>
+<body>
+ <!-- The `multiple` attribute lets users select multiple files. -->
+<input type="file" id="file-selector" multiple>
+<!--script>
+
+
+
+    const fileSelector = document.getElementById('file-selector');
+    fileSelector.addEventListener('change', (event) => {
+        const fileList = event.target.files;
+        //console.log(fileList);
+        const reader = new FileReader();
+        reader.addEventListener('load', (event) => {
+            result = event.target.result;
+            console.log(result);
+        });
+        reader.readAsText(fileList[0]);
+    });
+    
+</script -->
+</body>
+</html>
