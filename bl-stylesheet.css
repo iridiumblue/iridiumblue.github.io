@@ -109,12 +109,13 @@ a:hover { border-bottom: 1px dashed #49515C; color: #49515C; }
 #content {
 	float: left;
 	width: 550px;
-	height:650px;
+	height:1400px;
 	position: relative;
 	margin-left: 15px;
 	line-height: 20px; 
 	text-align: justify; 
 	word-spacing: 2px;	
+	font-size:16px;
 	}	
 #content div { background: #fff url(img/para_bg.jpg) repeat-x; }	
 /*------------------------------------------------------------*
